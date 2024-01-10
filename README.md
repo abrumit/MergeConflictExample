@@ -10,5 +10,5 @@ _more_ content on line 8
 ### new h3 section
 addition of new line to a new section with h3 
 
-## new h2 section on line 13.  expecting merge conflict here.
-some content in this section.
+## new h2 section on line 13 but...
+this section was added on the main branch.
